@@ -1,0 +1,7 @@
+1   urban
+2   grassland
+3   low vegetation
+4   tall vegetation
+5   bare soil
+6   built-up
+7   water
